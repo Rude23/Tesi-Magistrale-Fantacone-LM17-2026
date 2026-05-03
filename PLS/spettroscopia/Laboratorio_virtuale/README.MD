@@ -1,17 +1,17 @@
-# 🖥️ Interfaccia LabVIEW 2009 - Arduino via Seriale (VISA)
+# LABORATORIO VIRTUALE DI SPETTROSCOPIA
+**PLS 2025/2026, Università degli studi di Napoli "Federico II"**
 
-**Guida per l'attività di laboratorio didattico**
+Questo repository contiene la simulazione LabVIEW sviluppata per l'attività di laboratorio virtuale volta a misurare il valore dei livelli energetici a partire dell'osservazione delle sue righe spettrali.
 
-Questo documento contiene le istruzioni per configurare, installare e utilizzare la simulazione sviluppata in LabVIEW 2009
+Per eseguire il programma (`.exe`) su un PC dove non è installato l'ambiente di sviluppo completo di LabVIEW, è **tassativo** installare la runtime fornita da National Instruments.
 
+L'archivio [Spettroscopia Idrogeno_PLS.zip]((./Spettroscopia_Idrogeno_PLS.zip)) contiene sia l'eseguibile compilato sia il codice sorgente
 
 ---
 
-## ⚙️ Guida all'Installazione (Software e Runtime)
+### ⚙️ Guida all'Installazione
 
-Per eseguire il programma (`.exe` o il file `.vi` sorgente) su un PC dove non è installato l'ambiente di sviluppo completo di LabVIEW, è **tassativo** installare due componenti forniti da National Instruments.
-
-### Installazione del LabVIEW 2009 Run-Time Engine (RTE)
+#### LabVIEW 2009 Run-Time Engine (RTE)
 Il Run-Time Engine permette al PC di eseguire i `.exe` compilati con LabVIEW 2009.
 1. Scaricare dal [sito ufficiale di National Instruments (NI)](https://www.ni.com/en/support/downloads/software-products/download.labview-runtime.html) la versione 2009SP1 per il sistema operativo usato.
 2. Eseguire l'installer eguendo la procedura guidata.
