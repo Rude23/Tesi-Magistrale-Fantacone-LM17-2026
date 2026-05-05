@@ -32,8 +32,8 @@ liceo**
 
 ## 📂 Struttura del Repository
 
-- `📄 Tesi/`: 
-- `🛠️ PLS/`: Schede laboratorio, presentazioni, questionari e altro materiale didattico utilizzato per la sperimentazione didattica.
-- `💻 sequenze_didattiche/`: Simulazioni, interfacce, codice e altro materiale didattico utilizzato per le sequenza didatiche proposte.
+- `📄 Tesi`: 
+- `🛠️ [./PLS](PLS)`: Schede laboratorio, presentazioni, questionari e altro materiale didattico utilizzato per la sperimentazione didattica.
+- `💻 [./sequenze_didattiche](sequenze_didattiche)`: Simulazioni, interfacce, codice e altro materiale didattico utilizzato per le sequenza didatiche proposte.
 
 
