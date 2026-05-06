@@ -4,7 +4,7 @@
 
 Questo repository contiene la simulazione LabVIEW sviluppata per l'attività di laboratorio virtuale volta a misurare la costant di Plank $h$ dalla proporzionalità fra tensione di soglia e frequenza della luce emessa (*colore*) da un LED
 
-L'archivio [LED_PLS.zip](./LED_PLS.zip) contiene sia l'eseguibile compilato sia il codice sorgente
+L'archivio [LED_PLS.zip](./LED_PLS.zip) contiene sia l'eseguibile compilato sia il codice sorgente.
 
 Per eseguire il programma (`.exe`) su un PC dove non è installato l'ambiente LabVIEW completo, è **tassativo** installare la runtime fornita da National Instruments.
 

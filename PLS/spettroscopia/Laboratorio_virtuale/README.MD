@@ -5,7 +5,7 @@ Questo repository contiene la simulazione LabVIEW sviluppata per l'attività di 
 
 Per eseguire il programma (`.exe`) su un PC dove non è installato l'ambiente LabVIEW completo, è **tassativo** installare la runtime fornita da National Instruments.
 
-L'archivio [Spettroscopia Idrogeno_PLS.zip]((./Spettroscopia_Idrogeno_PLS.zip)) contiene sia l'eseguibile compilato sia il codice sorgente
+L'archivio [Spettroscopia Idrogeno_PLS.zip]((./Spettroscopia_Idrogeno_PLS.zip)) contiene sia l'eseguibile compilato sia il codice sorgente.
 
 ---
 
