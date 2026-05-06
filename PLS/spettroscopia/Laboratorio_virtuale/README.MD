@@ -3,7 +3,7 @@
 
 Questo repository contiene la simulazione LabVIEW sviluppata per l'attività di laboratorio virtuale volta a misurare il valore dei livelli energetici a partire dell'osservazione delle sue righe spettrali.
 
-Per eseguire il programma (`.exe`) su un PC dove non è installato l'ambiente di sviluppo completo di LabVIEW, è **tassativo** installare la runtime fornita da National Instruments.
+Per eseguire il programma (`.exe`) su un PC dove non è installato l'ambiente LabVIEW completo, è **tassativo** installare la runtime fornita da National Instruments.
 
 L'archivio [Spettroscopia Idrogeno_PLS.zip]((./Spettroscopia_Idrogeno_PLS.zip)) contiene sia l'eseguibile compilato sia il codice sorgente
 
