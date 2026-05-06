@@ -1,15 +1,14 @@
-# 🖥️ Interfaccia LabVIEW 2009 - Arduino via Seriale (VISA)
+# LABORATORIO SUI LED CON ARDUINO 
 
-**Guida per l'attività di laboratorio didattico**
+Questo repository contiene l'interfaccia per Arduino sviluppata in LabVIEW per misurare la caratteristica i-V, non lineare,  di un LED e osservare come sia radicalmente diversa da quella di un resistore ohmico, lineare.
 
-Questo documento contiene le istruzioni per configurare, installare e utilizzare l'interfaccia sviluppata in LabVIEW 2009 per comunicare con una scheda Arduino tramite porta seriale, utilizzando i protocolli standard **VISA Read** e **VISA Write**.
+L'archivio [LED_R.zip](./LED_R.zip) contiene sia il codice sorgente sia l'eseguibile compilato. Inoltre è presente una simulazione, compilata dallo stesso codice sorgente, che può essere utilizzata per svolgere l'attività come laboratorio virtuale senza utilizzare Arduino.
 
+Per eseguire i programmi (`.exe`) su un PC dove non è installato l'ambiente LabVIEW completo, è **tassativo** installare due componenti forniti da National Instruments: la runtime e i driver VISA.
 
 ---
 
-## ⚙️ Guida all'Installazione (Software e Runtime)
-
-Per eseguire il programma (`.exe` o il file `.vi` sorgente) su un PC dove non è installato l'ambiente di sviluppo completo di LabVIEW, è **tassativo** installare due componenti forniti da National Instruments.
+## ⚙️ Guida all'Installazione LabVIEW
 
 ### Passo A: Installazione del LabVIEW 2009 Run-Time Engine (RTE)
 Il Run-Time Engine permette al PC di eseguire gli eseguibili compilati con LabVIEW 2009.
@@ -24,14 +23,14 @@ Il Run-Time Engine permette al PC di eseguire gli eseguibili compilati con LabVI
 2. Eseguire l'installer selezionando il supporto per **Serial/COM**.
 3. **Riavviar il computer**.
 
-## 📥 2. Guida all'Installazione di Arduino IDE
+## 📥 Guida all'Installazione di Arduino IDE
 
 Per caricare il codice sulla scheda, è necessario l'ambiente di sviluppo ufficiale.
 
-### Passo 1: Download
 1. Scaricare dal sito ufficial [arduino.cc/en/software](https://www.arduino.cc/en/software) versione per il tuo sistema operativo utilizzato.
-1. Avviare l'installer scaricato (`.exe`) 
-2. Accettare i termini di licenza e procedere  con l'installazione standard.
+2. Avviare l'installer scaricato (`.exe`) 
+3. Accettare i termini di licenza e procedere  con l'installazione standard.
+
 **Importante:** Se durante l'installazione Windows chiede il permesso di installare "Driver di dispositivo" da Arduino srl o Adafruit, cliccare sempre su **Installa**.
 
 ---
