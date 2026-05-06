@@ -1,17 +1,16 @@
-# 🖥️ Interfaccia LabVIEW 2009 - Arduino via Seriale (VISA)
+# LABORATORIO VIRTUALE DI SPETTROSCOPIA
 
-**Guida per l'attività di laboratorio didattico**
+Questo repository contiene la simulazione LabVIEW sviluppata per introdurre lo spettro a righe dei gas.
 
-Questo documento contiene le istruzioni per configurare, installare e utilizzare la simulazione sviluppata in LabVIEW 2009
+L'archivio [Spettro_gas.zip](./Spettro_gas.zip) contiene sia l'eseguibile compilato sia il codice sorgente.
 
+Per eseguire il programma (`.exe`) su un PC dove non è installato l'ambiente LabVIEW completo, è **tassativo** installare la runtime fornita da National Instruments.
 
 ---
 
-## ⚙️ Guida all'Installazione (Software e Runtime)
+### ⚙️ Guida all'Installazione
 
-Per eseguire il programma (`.exe` o il file `.vi` sorgente) su un PC dove non è installato l'ambiente di sviluppo completo di LabVIEW, è **tassativo** installare due componenti forniti da National Instruments.
-
-### Installazione del LabVIEW 2009 Run-Time Engine (RTE)
+#### LabVIEW 2009 Run-Time Engine (RTE)
 Il Run-Time Engine permette al PC di eseguire i `.exe` compilati con LabVIEW 2009.
 1. Scaricare dal [sito ufficiale di National Instruments (NI)](https://www.ni.com/en/support/downloads/software-products/download.labview-runtime.html) la versione 2009SP1 per il sistema operativo usato.
 2. Eseguire l'installer eguendo la procedura guidata.
