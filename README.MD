@@ -27,13 +27,13 @@ physic in high school*
 
 ## 📝 Descrizione
 
-Questo repository contiene il materiale didattico presentato nella mia tesi sperimentale in Didattica della Fisica intitolata **Un curriculum interattivo di fisica moderna per il
+Questo repository contiene il materiale prodotto e presentato nella mia tesi sperimentale in Didattica della Fisica intitolata **Un curriculum interattivo di fisica moderna per il
 liceo**
 
 ## 📂 Struttura del Repository
 
-- `📄 Tesi`: 
-- `🛠️ [./PLS](PLS)`: Schede laboratorio, presentazioni, questionari e altro materiale didattico utilizzato per la sperimentazione didattica.
-- `💻 [./sequenze_didattiche](sequenze_didattiche)`: Simulazioni, interfacce, codice e altro materiale didattico utilizzato per le sequenza didatiche proposte.
+- 📄  [Tesi](./Tesi_Fantacone_N94000879.pdf): Versione digitale del manoscritto 
+- 🛠️ [PLS](./PLS): Schede laboratorio, presentazioni, questionari e altro materiale utilizzato per la sperimentazione didattica.
+- 💻 [Sequenze didattiche](./sequenze_didattiche): Simulazioni, interfacce, codice e altro materiale utilizzato per le sequenze didatiche, prodotte al fine di rendere possibile una implementazione del curriculum oggetto della tesi.
 
 
